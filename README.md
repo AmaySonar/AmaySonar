@@ -1,9 +1,9 @@
 ## Hi, I am Amay  👋
 
-# Master's in  Business and Bacherlors in Computer Science <br>
-# Data analyst and Technical Consultant  <br>
+### Master's in  Business and Bacherlors in Computer Science <br>
+Data analyst and Technical Consultant  <br>
 <i> I create Dashboards and Presentation for Fun </i> <br>
-# Huge nerd about Cloud and AI <br>
+ Huge nerd about Cloud and AI <br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amaysonar/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@amaysonar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amaysonar@gmail.com) 

@@ -1,6 +1,6 @@
 ## Hi, I am Amay  👋
 
-### Master's in  Business and Bacherlors in Computer Science <br>
+Master's in  Business and Bacherlors in Computer Science <br>
 Data analyst and Technical Consultant  <br>
 <i> I create Dashboards and Presentation for Fun </i> <br>
  Huge nerd about Cloud and AI <br>

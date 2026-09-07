@@ -1,7 +1,7 @@
 ## Hi, I am Amay  👋
  
 🎓 Master's in  Business and Bachelor's in Computer Science <br>
-📈 Data analyst and Technical Consultant  <br>
+📈 Operations Analyst and Technical Consultant  <br>
 <i> I create Dashboards and Presentation for Fun </i> <br>
  <i> Huge nerd about Cloud and AI </i> <br>
 
